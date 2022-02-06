@@ -20,6 +20,6 @@
 /tub_frontend/*.njsproj
 /tub_frontend/*.sln
 /tub_frontend/*.sw?
-PI_TP/pyFeedGMaps/config.json
+
 *.bak_000f
 *.bak_001d
