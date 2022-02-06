@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stops",
+  "info": {
+    "singularName": "stop",
+    "pluralName": "stops",
+    "displayName": "stop"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "stop_id": {
+      "type": "integer"
+    },
+    "stop_code": {
+      "type": "integer"
+    },
+    "stop_name": {
+      "type": "string"
+    },
+    "stop_lat": {
+      "type": "float"
+    },
+    "stop_lon": {
+      "type": "float"
+    },
+    "zone_id": {
+      "type": "integer"
+    }
+  }
+}

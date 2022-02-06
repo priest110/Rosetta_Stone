@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/strapi": "4.0.5",
+    "@strapi/plugin-users-permissions": "4.0.5",
+    "@strapi/plugin-i18n": "4.0.5",
+    "pg": "8.6.0"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "670c8f34-ccda-4c1f-b6da-3050703db7ef"
+  },
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

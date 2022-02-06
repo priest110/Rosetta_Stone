@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "calendar_dates",
+  "info": {
+    "singularName": "calendar-date",
+    "pluralName": "calendar-dates",
+    "displayName": "calendar_date",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "date": {
+      "type": "date"
+    },
+    "service_id": {
+      "type": "biginteger"
+    },
+    "exception_type": {
+      "type": "biginteger"
+    }
+  }
+}

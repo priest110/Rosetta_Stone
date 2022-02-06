@@ -1,0 +1,9 @@
+{
+    "file_source": "http://your_server_here.com/google_transit.zip",
+    "notification_receivers": ["receiver1@gmail.com", "receiver2@outlook.com"],
+    "notification_sender": "sender127@gmail.com",
+    "update_frequency": 14,
+    "starting_date": "2022-02-28",
+    "ftp_host": "files.000webhost.com",
+    "ftp_user": "jose_ftp"
+}

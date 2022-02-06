@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stop_times",
+  "info": {
+    "singularName": "stop-time",
+    "pluralName": "stop-times",
+    "displayName": "stop_time"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "trip_id": {
+      "type": "integer"
+    },
+    "arrival_time": {
+      "type": "string"
+    },
+    "departure_time": {
+      "type": "string"
+    },
+    "stop_id": {
+      "type": "integer"
+    },
+    "stop_sequence": {
+      "type": "integer"
+    },
+    "timepoint": {
+      "type": "integer"
+    }
+  }
+}

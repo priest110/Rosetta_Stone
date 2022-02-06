@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "routes",
+  "info": {
+    "singularName": "route",
+    "pluralName": "routes",
+    "displayName": "route",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "route_id": {
+      "type": "integer"
+    },
+    "agency_id": {
+      "type": "integer"
+    },
+    "route_long_name": {
+      "type": "string"
+    },
+    "route_type": {
+      "type": "integer"
+    },
+    "route_short_name": {
+      "type": "string"
+    }
+  }
+}

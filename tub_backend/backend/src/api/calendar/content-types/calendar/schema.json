@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "calendars",
+  "info": {
+    "singularName": "calendar",
+    "pluralName": "calendars",
+    "displayName": "calendar"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "service_id": {
+      "type": "integer"
+    },
+    "monday": {
+      "type": "integer"
+    },
+    "tuesday": {
+      "type": "integer"
+    },
+    "wednesday": {
+      "type": "integer"
+    },
+    "thursday": {
+      "type": "integer"
+    },
+    "friday": {
+      "type": "integer"
+    },
+    "saturday": {
+      "type": "integer"
+    },
+    "sunday": {
+      "type": "integer"
+    },
+    "start_date": {
+      "type": "date"
+    },
+    "end_date": {
+      "type": "date"
+    }
+  }
+}

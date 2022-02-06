@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "trips",
+  "info": {
+    "singularName": "trip",
+    "pluralName": "trips",
+    "displayName": "trip"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "route_id": {
+      "type": "integer"
+    },
+    "service_id": {
+      "type": "integer"
+    },
+    "trip_id": {
+      "type": "integer"
+    },
+    "direction_id": {
+      "type": "integer"
+    },
+    "shape_id": {
+      "type": "string"
+    }
+  }
+}

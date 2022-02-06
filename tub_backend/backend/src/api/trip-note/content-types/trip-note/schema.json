@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "trip_notes",
+  "info": {
+    "singularName": "trip-note",
+    "pluralName": "trip-notes",
+    "displayName": "trip_note"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "trip_id": {
+      "type": "integer"
+    },
+    "note_id": {
+      "type": "integer"
+    },
+    "description": {
+      "type": "text"
+    },
+    "public_information_note": {
+      "type": "text"
+    },
+    "operation_note": {
+      "type": "string"
+    }
+  }
+}
