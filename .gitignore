@@ -1,0 +1,25 @@
+/tub_frontend/node_modules
+/tub_frontend/dist
+
+
+# local env files
+/tub_frontend/.env.local
+/tub_frontend/.env.*.local
+
+# Log files
+/tub_frontend/npm-debug.log*
+/tub_frontend/yarn-debug.log*
+/tub_frontend/yarn-error.log*
+/tub_frontend/pnpm-debug.log*
+
+# Editor directories and files
+/tub_frontend/.idea
+/tub_frontend/.vscode
+/tub_frontend/*.suo
+/tub_frontend/*.ntvs*
+/tub_frontend/*.njsproj
+/tub_frontend/*.sln
+/tub_frontend/*.sw?
+PI_TP/pyFeedGMaps/config.json
+*.bak_000f
+*.bak_001d
