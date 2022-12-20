@@ -2,6 +2,8 @@
 
 This project aimed to create, with the transport company Transportes Urbanos de Braga (TUB), a middleware that would allow the treatment of the information provided by the company, as well as its presentation to the customer in an objective and logical way in different systems, such as TOTEMS (static information at the city stops), website and mobile application.
 
+To learn more about this work, I advise you to check the assignment [report](Relatório.pdf).
+
 ## Team:
 
 - [Ana Rita Rosendo][hades]
